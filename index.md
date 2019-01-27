@@ -22,7 +22,7 @@ textline: |
 
   Ora et Labora
 hero_button:
-  text: Learn more
+  text: Fuck
   href: "/about"
 show_news: true
 show_staff: false
